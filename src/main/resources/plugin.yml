@@ -1,0 +1,11 @@
+name: CooldownExample
+version: '${version}'
+main: com.sugar_tree.cooldownexample.CooldownExample
+api-version: 1.19
+commands:
+  test1:
+    usage: /test1
+    description: test command
+  test2:
+    usage: /test2
+    description: test command
